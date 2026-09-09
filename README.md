@@ -29,4 +29,3 @@ This project was developed in Xilinx Vivado. To rebuild:
 3. Add `constraints/traffic_light.xdc` as a constraints file.
 4. Run synthesis, implementation, and generate the bitstream.
 
-Generated build artifacts (`.cache`, `.runs`, `.sim`, `.srcs`, `.xpr`, etc.) are intentionally excluded from this repo — see `.gitignore`.
