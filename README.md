@@ -1,4 +1,4 @@
-# Traffic Light Controller (FPGA / Verilog)
+# Traffic Light Controller 
 
 An FPGA-based traffic light controller implemented in Verilog, targeting Xilinx Vivado.
 
